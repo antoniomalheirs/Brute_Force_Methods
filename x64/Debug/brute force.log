@@ -1,0 +1,8 @@
+﻿  brute force.cpp
+C:\Users\Anton\OneDrive\Área de Trabalho\game\brute_force\brute force\brute force.cpp(10,83): warning C4267: 'argumento': conversão de 'size_t' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Anton\OneDrive\Área de Trabalho\game\brute_force\brute force\brute force.cpp(42,83): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  brute force.vcxproj -> C:\Users\Anton\OneDrive\Área de Trabalho\game\brute_force\brute force\x64\Debug\brute force.exe
