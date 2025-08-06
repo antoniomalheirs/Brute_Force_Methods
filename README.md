@@ -1,6 +1,7 @@
 # BruteForce Explorer C++
 
 ![C++](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
+![Uso](https://img.shields.io/badge/Uso-Educacional-yellow?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Bem-vindo ao **BruteForce Explorer**, um projeto de console em C++ desenvolvido para fins educacionais. O objetivo principal desta ferramenta não é ser um software de cracking de senhas prático, mas sim **demonstrar visualmente os conceitos, a matemática e o tempo computacional envolvidos em ataques de força bruta**.
